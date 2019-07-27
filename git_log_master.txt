@@ -1,0 +1,30 @@
+$ git log
+commit 08f62db93eb3c38752d8efdd5d9743845c35ac20 (HEAD -> master)
+Author: Keerti <keertisurapaneni@gmail.com>
+Date:   Sat Jul 27 13:45:06 2019 -0400
+
+    modified test.log
+
+commit 423ec07b00d7456429ced87bc366b8555e5b31d7 (origin/master, origin/HEAD)
+Author: Keerti <keertisurapaneni@gmail.com>
+Date:   Sat Jul 27 11:31:02 2019 -0400
+
+    committing test.log
+
+commit 81df4a4c8cd4fa4d964617f4d1fe0f9f0ce48775
+Author: Keerti <keertisurapaneni@gmail.com>
+Date:   Sat Jul 27 11:27:05 2019 -0400
+
+    Just testing changes again
+
+commit 14287f1d2460d5593d533535fbaa1c858e0b3ccc
+Author: Keerti <keertisurapaneni@gmail.com>
+Date:   Sat Jul 27 11:25:30 2019 -0400
+
+    Just testing changes
+
+commit c0ba92c4c1bbd9ad750f4509f4c3336435b0f879
+Author: Keerti <keertisurapaneni@gmail.com>
+Date:   Sat Jul 27 11:10:22 2019 -0400
+
+    Added bye
